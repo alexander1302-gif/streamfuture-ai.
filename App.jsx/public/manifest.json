@@ -1,0 +1,19 @@
+{
+  "short_name": "StreamFuture",
+  "name": "StreamFuture AI - Streaming del Futuro",
+  "description": "Plataforma de streaming con IA: TV en vivo, películas y series",
+  "start_url": ".",
+  "display": "fullscreen",
+  "background_color": "#05050f",
+  "theme_color": "#6c3bff",
+  "orientation": "landscape",
+  "categories": ["entertainment", "video"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%236c3bff'/><text y='.9em' font-size='80' x='10'>▷</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
